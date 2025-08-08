@@ -1,5 +1,3 @@
-package holberton.mei;
-
 import java.util.GregorianCalendar;
 
 import org.junit.Assert;
@@ -7,12 +5,6 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class PersonTest {
-
-	// Crie o método setup que rode antes de todos os testes com o seguinte atributo
-	// inicial -
-	// name: “Paul - surname: "McCartney” - birthDate: 2000 - anotherCompanyOwner:
-	// true, - pensioner: true, -publicServer: true,
-
 	private Person person;
 
 	@Before

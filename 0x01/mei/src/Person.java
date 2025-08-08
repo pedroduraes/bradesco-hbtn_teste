@@ -1,5 +1,3 @@
-package holberton.mei;
-
 import java.time.LocalDate;
 import java.time.Period;
 import java.time.ZoneId;
