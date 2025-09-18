@@ -1,5 +1,3 @@
-package holberton.password;
-
 public class Person {
 
 	private String userName;
